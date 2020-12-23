@@ -10,7 +10,7 @@ public class Loop7Ex {
 		{	
 			for(int i=2; i<=9; i++)
 			{
-				System.out.printf("%d x %d = %d    ",i,j,i*j);
+				System.out.printf("%d x %d = %d \t",i,j,i*j);
 			}
 			System.out.println();
 			
